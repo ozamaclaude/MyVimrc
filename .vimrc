@@ -3,3 +3,4 @@ set tabstop=2
 set number
 set incsearch
 set cursorline
+set autoindent
